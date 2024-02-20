@@ -1,1 +1,11 @@
-# APPLICATIONS_OF_VARIOUS_CONVOLUTIONAL_NEURAL_NETWORKS_FOR_SORTING_DIFFERENT_TYPES_OF_WASTE
+# Сравнение точности идентификации различных типов мусора разными нейронными сетями
+
+__Выполнила__: Шелкова Дарья
+
+# Актуальность 
+Вопрос сортировки мусора в последние года становится все более и более актуальным, выполнение данной задачи с помощью человеческих ресурсов становится нерациональным и неэфективным решением.
+В своем небольшом исследовании я хочу освятить более актуальный подход к этой проблеме, а именно использование нейронных сетей. 
+
+---
+> Решение данного проекта представлено в формате документа [code_for_article.ipynb](https://github.com/Nuzuret/APPLICATIONS-OF-VARIOUS-CONVOLUTIONAL-NEURAL-NETWORKS-FOR-SORTING-DIFFERENT-TYPES-OF-WASTE/blob/main/code_for_article.ipynb)
+>
