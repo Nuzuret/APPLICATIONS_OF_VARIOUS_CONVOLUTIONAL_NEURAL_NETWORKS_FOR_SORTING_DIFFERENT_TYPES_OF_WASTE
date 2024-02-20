@@ -7,5 +7,4 @@ __Выполнила__: Шелкова Дарья
 В своем небольшом исследовании я хочу освятить более актуальный подход к этой проблеме, а именно использование нейронных сетей. 
 
 ---
-> Решение данного проекта представлено в формате документа [code_for_article.ipynb](https://github.com/Nuzuret/APPLICATIONS-OF-VARIOUS-CONVOLUTIONAL-NEURAL-NETWORKS-FOR-SORTING-DIFFERENT-TYPES-OF-WASTE/blob/main/code_for_article.ipynb)
->
+> Решение данного проекта представлено в формате документа [code_for_article.ipynb](https://github.com/Nuzuret/APPLICATIONS_OF_VARIOUS_CONVOLUTIONAL_NEURAL_NETWORKS_FOR_SORTING_DIFFERENT_TYPES_OF_WASTE/blob/main/code_for_article.ipynb)
